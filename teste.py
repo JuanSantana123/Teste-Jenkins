@@ -7,7 +7,7 @@ email_de = 'listjuansantana@gmail.com'
 senha = 'ikkiegpjvqqgtedw'
 
 # Configurações do destinatário
-email_para = 'listjuansantanao@example.com'
+email_para = 'listjuansantana@gmail.com'
 
 # Configurações do servidor SMTP do Gmail
 smtp_servidor = 'smtp.gmail.com'
