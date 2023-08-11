@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 
 # Configurações do remetente
 email_de = 'listjuansantana@gmail.com'
-senha = '7860644aA@'
+senha = '7860644a'
 
 # Configurações do destinatário
 email_para = 'listjuansantanao@example.com'
